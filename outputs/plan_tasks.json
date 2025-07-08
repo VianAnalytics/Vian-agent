@@ -1,0 +1,26 @@
+[
+  {
+    "gene": "BRCA1",
+    "task_type": "evidence_lookup",
+    "search_queries": [
+      "What drugs are associated with BRCA1?",
+      "What is the mechanism of action for drugs targeting BRCA1?"
+    ]
+  },
+  {
+    "gene": "TP53",
+    "task_type": "evidence_lookup",
+    "search_queries": [
+      "What drugs are associated with TP53?",
+      "What is the mechanism of action for drugs targeting TP53?"
+    ]
+  },
+  {
+    "gene": "PIK3CA",
+    "task_type": "evidence_lookup",
+    "search_queries": [
+      "What drugs are associated with PIK3CA?",
+      "What is the mechanism of action for drugs targeting PIK3CA?"
+    ]
+  }
+]

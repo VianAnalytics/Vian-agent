@@ -1,0 +1,16 @@
+gene,drug,mechanism,abstract,biogpt_summary
+BRCA1,Olaparib,PARP inhibitor,Olaparib is used for BRCA1 mutated cancers.,"Gene: BRCA1
+Drug: Olaparib
+Mechanism: PARP inhibitor
+Abstract: Olaparib is used for BRCA1 mutated cancers.
+Is this drug effective for BRCA1-related disease? Justify."
+TP53,Adriamycin,DNA damage,TP53 suppression enhances Adriamycin effect.,"Gene: TP53
+Drug: Adriamycin
+Mechanism: DNA damage
+Abstract: TP53 suppression enhances Adriamycin effect.
+Is this drug effective for TP53-related disease? Justify."
+PIK3CA,Alpelisib,PI3K inhibitor,Alpelisib targets PIK3CA-related tumors.,"Gene: PIK3CA
+Drug: Alpelisib
+Mechanism: PI3K inhibitor
+Abstract: Alpelisib targets PIK3CA-related tumors.
+Is this drug effective for PIK3CA-related disease? Justify."
