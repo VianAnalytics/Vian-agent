@@ -1,1 +1,17 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Virtual environment (if you have one in the root)
 venv/
+.venv/
+
+# Output directories (if they contain generated files you don't want to commit)
+outputs/
+
+# Any other temporary or generated files you don't want in Git
+# For example, if 'data/input.csv' is generated and not source:
+# data/input.csv

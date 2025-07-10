@@ -1,0 +1,4 @@
+gene,drug,mechanism,abstract
+BRCA1,Olaparib,PARP inhibitor,"Olaparib is used for BRCA1 mutated cancers."
+TP53,Adriamycin,DNA damage,"TP53 suppression enhances Adriamycin effect."
+PIK3CA,Alpelisib,PI3K inhibitor,"Alpelisib targets PIK3CA-related tumors."
